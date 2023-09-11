@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>PlayEvents</name>
+    <events>
+        <event-block sid="789813471880611">
+            <conditions>
+                <condition id="-32" name="Is on platform" sid="144756277875989" type="System">
+                    <param id="0" name="Platform">2</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Request login" sid="315476875255226" type="CocoonGooglePlayGames" />
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

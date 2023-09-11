@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>MenuEvents</name>
+    <events>
+        <event-block sid="765804932042880">
+            <conditions>
+                <condition id="0" name="On clicked" sid="515174713378364" type="PlayBtn" />
+            </conditions>
+            <actions />
+        </event-block>
+    </events>
+</c2eventsheet>
